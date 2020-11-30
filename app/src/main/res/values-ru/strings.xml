@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Вечеринка</string>
+    <string name="invited">Пригласил(а): %1$s</string>
+    <string name="they_will_come_with_you">С Вами придут</string>
+    <string name="empty">Пусто</string>
+</resources>

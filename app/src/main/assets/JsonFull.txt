@@ -1,0 +1,1 @@
+{"partyName": "Big party", "hostParty": {"name": "OwnerName", "imageURL": ""}, "guests": [{"name": "guest1Name", "imageURL": ""}, {"name":"guest2Name", "imageURL": ""}, {"name":"guest3Name", "imageURL": ""}]}
