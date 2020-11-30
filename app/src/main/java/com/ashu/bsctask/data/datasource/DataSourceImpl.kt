@@ -25,6 +25,5 @@ class DataSourceImpl: DataSource {
         } catch (exception: Exception) {
             Result.error(exception)
         }
-
     }
 }

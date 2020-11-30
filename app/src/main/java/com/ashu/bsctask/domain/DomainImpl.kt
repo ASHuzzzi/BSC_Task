@@ -27,6 +27,7 @@ class DomainImpl: Domain {
   private fun getParty(partyItem: PartyItem): Party {
     return Party(
       partyItem.partyName,
+      partyItem.partyImage,
       createHostParty(partyItem.hostParty),
       createGuests(partyItem.guests))
   }
